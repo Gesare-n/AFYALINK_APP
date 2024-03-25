@@ -35,7 +35,7 @@ To use the app, follow these steps:
 
 ## Demo
 
-Check out the [live demo]() of the Diabetes Management App to see it in action.
+Check out the [live demo](https://drive.google.com/file/d/1hepCjHKcMHl3NfdsEYS9Yw6wTcRZbm5L/view?usp=sharing) of the Diabetes Management App to see it in action.
 
 
 ## Development
